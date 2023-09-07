@@ -5,7 +5,17 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Hello Github");
+        System.out.println("Hello CodeWithMe");
+        System.out.println("Hej det är Andrea :(");
 
+
+        //En presentation
+
+
+        // Klicka på länken på Discord
+        //hej jag är inne och skriver/Sandra
+
+
+        System.out.println ("Hej jag heter Samah");
     }
 }
